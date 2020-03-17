@@ -1,6 +1,6 @@
 version = "v1"
 
 policy "cloud_location" {
-  enabled           = true
+  enabled           = false
   enforcement_level = "hard-mandatory"
 }
