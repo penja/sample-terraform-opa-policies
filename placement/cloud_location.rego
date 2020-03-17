@@ -4,7 +4,7 @@ import input.tfplan as tfplan
 
 
 allowed_locations = {
-    "aws": ["us-east-1", "us-east-2"],
+    "aws": ["us-east-2", "us-east-12"],
     "azurerm": ["eastus", "eastus2"],
     "google": ["us-central1-a", "us-central1-b", "us-west1-a"]
 }
